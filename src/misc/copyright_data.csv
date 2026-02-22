@@ -172,17 +172,17 @@ sound;samples/pause_highlight.wav;CC-BY-4.0;Alexandre Almeida (M374LX);m374lx.us
 sound;samples/break.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/checkpoint.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/jump.wav;CC-BY-3.0;Carlos Quinones (MoonDeLaAxel);github.com/MoonDeLaAxel;Originally charge.wav by Alexandre Almeida (M374LX)
-sound;samples/spring.wav;CC-BY-3.0;Carlos Quinones (MoonDeLaAxel);github.com/MoonDeLaAxel;;
+sound;samples/spring.wav;CC-BY-3.0;Carlos Quinones (MoonDeLaAxel);github.com/MoonDeLaAxel;
 sound;samples/bosshit.wav;CC-BY-3.0;Mateus Reis (KZR);;Volume increased by Cody Licorish (svgmovement)
 sound;samples/brake.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/drown.wav;CC-BY-3.0;Mateus Reis (KZR);;
-sound;samples/collectible.wav;CC-BY-4.0;Carlos Quinones (MoonDeLaAxel);github.com/MoonDeLaAxel;;
+sound;samples/collectible.wav;CC-BY-4.0;Carlos Quinones (MoonDeLaAxel);github.com/MoonDeLaAxel;
 sound;samples/collectible_loss.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/collectible_count.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/select.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/select_2.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/return.wav;CC-BY-3.0;Mateus Reis (KZR);;
-sound;samples/roll.wav;CC-BY-3.0;Carlos Quinones (MoonDeLaAxel);github.com/MoonDeLaAxel;;
+sound;samples/roll.wav;CC-BY-3.0;Carlos Quinones (MoonDeLaAxel);github.com/MoonDeLaAxel;
 sound;samples/release.wav;CC-BY-3.0;Carlos Quinones (MoonDeLaAxel);;Edited from Mateus Reis (KZR)'s release.wav and Alexandre Martins (alemart)'s destroy.wav
 sound;samples/choose.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/bigring.wav;CC-BY-3.0;Mateus Reis (KZR);;
