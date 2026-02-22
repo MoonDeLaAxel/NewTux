@@ -183,7 +183,7 @@ sound;samples/select.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/select_2.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/return.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/roll.wav;CC-BY-3.0;Carlos Quinones (MoonDeLaAxel);github.com/MoonDeLaAxel;
-sound;samples/release.wav;CC-BY-3.0;Carlos Quinones (MoonDeLaAxel);;Edited from Mateus Reis (KZR)'s release.wav and Alexandre Martins (alemart)'s destroy.wav
+sound;samples/release.wav;CC-BY-3.0;Carlos Quinones (MoonDeLaAxel);github.com/MoonDeLaAxel;Based on Mateus Reis (KZR)'s release.wav and Alexandre Martins (alemart)'s destroy.wav
 sound;samples/choose.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/bigring.wav;CC-BY-3.0;Mateus Reis (KZR);;
 sound;samples/endsign.wav;CC-BY-3.0;Mateus Reis (KZR);;
